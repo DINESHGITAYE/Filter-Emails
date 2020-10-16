@@ -9,5 +9,5 @@ In this task, we filter out the emails based on their subject like "Thank you fo
 4. After making the above changes in your Gmail account you have to just run the code in jupyter notebook.
 
 # Referance:
-[GeeksforGeeks](https://www.geeksforgeeks.org/python-fetch-your-gmail-emails-from-a-particular-user/)
-[PythonCode](https://www.thepythoncode.com/article/reading-emails-in-python)
+1. [GeeksforGeeks](https://www.geeksforgeeks.org/python-fetch-your-gmail-emails-from-a-particular-user/)
+2. [PythonCode](https://www.thepythoncode.com/article/reading-emails-in-python)
