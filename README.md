@@ -8,6 +8,6 @@ In this task, we filter out the emails based on their subject like "Thank you fo
 3. To make above changes in your Gmail account you have to follow the steps given in pdf called "Requirements to run code" which is provided with a code file. Also you can access this pdf file from [Clicking Here](https://github.com/DINESHGITAYE/Filter-Emails/blob/main/Requirements%20to%20run%20the%20code.pdf)
 4. After making the above changes in your Gmail account you have to just run the code in jupyter notebook. you can access this code file from [Clicking Here](https://github.com/DINESHGITAYE/Filter-Emails/blob/main/Internship%20Task.ipynb)
 
-# Referance:
+# Referances:
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/python-fetch-your-gmail-emails-from-a-particular-user/)
 2. [PythonCode](https://www.thepythoncode.com/article/reading-emails-in-python)
