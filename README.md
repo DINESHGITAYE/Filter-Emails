@@ -10,7 +10,7 @@ In this task, we filter out the emails based on their subject like "Thank you fo
 5. **You have to put your email address and password after running the first line of the code.**
 
 * __Apply code on clean data:__
-  * **If you want to see the same results without doing the above steps** then you have to run the code which given in the file called "Cross check the result". you can access this code file by [Clicking here](https://github.com/DINESHGITAYE/Filter-Emails/blob/main/Cross%20check%20the%20result.ipynb)
+  * **If you want to see the same results without doing the above steps** then you have to run the code which is given in the file called "Cross check the result". you can access this code file by [Clicking here](https://github.com/DINESHGITAYE/Filter-Emails/blob/main/Cross%20check%20the%20result.ipynb)
 
 # Referances:
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/python-fetch-your-gmail-emails-from-a-particular-user/)
