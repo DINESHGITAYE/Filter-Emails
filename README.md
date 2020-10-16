@@ -7,7 +7,7 @@ In this task, we filter out the emails based on their subject like "Thank you fo
 2. Then we have to give access of our Gmail account to less secure apps so that we can fetch out our emails in jupyter notebook.
 3. To make above changes in your Gmail account you have to follow the steps given in pdf called "Requirements to run code" which is provided with a code file. Also you can access this pdf file by [Clicking Here](https://github.com/DINESHGITAYE/Filter-Emails/blob/main/Requirements%20to%20run%20the%20code.pdf)
 4. After making the above changes in your Gmail account you have to just run the code in jupyter notebook. you can access this code file by [Clicking Here](https://github.com/DINESHGITAYE/Filter-Emails/blob/main/Internship%20Task.ipynb)
-5. **You have to put your email address and password while running the first line of the code.**
+5. **You have to put your email address and password after running the first line of the code.**
 
 # Referances:
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/python-fetch-your-gmail-emails-from-a-particular-user/)
