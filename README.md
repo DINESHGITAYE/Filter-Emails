@@ -5,4 +5,5 @@ In this task, we filter out the emails based on their subject like "Thank you fo
 # How to run code:
 1. To run the code first we have to enable IMAP(Internet Message Access Protocol) of our Email account.
 2. Then we have to give access of our gmail account to less secure apps so that we can fetch out our emails in jupyter notebook.
-3. To perform above two steps check out 
+3. To perform above two steps you have to follow the steps given in pdf called "Requirements to run code" which is provided with code file. Also you can access this pdf file from [Here]()
+
